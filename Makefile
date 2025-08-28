@@ -1,5 +1,3 @@
-# -----    VARIABLES -----
-# PYTHON=python3
 # -----    RULES     -----
 
 run:
