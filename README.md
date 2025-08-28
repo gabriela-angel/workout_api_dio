@@ -109,5 +109,3 @@ workout_api/
 - `/training_centers` - Manage training centers
 
 See the interactive docs at `/docs` for details.
-
-## License
